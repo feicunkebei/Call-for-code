@@ -39,7 +39,7 @@ Water quality optimization plan: Provide a water quality optimization plan based
 Information platform: The requesting party releases help seeking information, and the assisting party can contact through their contact information
 
 ## Long Description <a name="Long-Description"></a>
-[Long Description Document Link](https://github.com/feicunkebei/Call-for-code/blob/main/2023 Call for code -- Water quality optimizer.pptx)
+[Long Description Document Link](https://github.com/feicunkebei/Call-for-code/blob/main/2023 Call for code -- Water quality optimizer.docx)
 
 ## Demo Video <a name="Demo-Video"></a>
 [![Demo Video](https://www.youtube.com/watch?v=56ektD1wWUU)]
